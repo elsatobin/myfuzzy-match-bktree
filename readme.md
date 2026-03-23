@@ -1,5 +1,5 @@
 **summary of the levenshtein-based fuzzy search algorithm**
-
+#######
 the algorithm efficiently finds all strings within a specified levenshtein distance \( k \) from a query string in a dataset. it combines optimized levenshtein distance calculations with a data structure called a bk-tree to perform fast fuzzy searches.
 
 **steps taken to create the algorithm**
